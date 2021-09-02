@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My Bio v2</title>
+        <link rel="stylesheet" href="design.css">
+    </head>
+<body>
+    <div class="content">
+        <p class="me">ABOUT ME</p>
+        <img src="kj2.jpg" class="profile">
+        <img src="fb.png" class="fb">
+        <img src="twi.png" class="twi">
+        <img src="tik.png" class="tik">
+        <img src="insta.png" class="insta">
+        <h1 class="name">Kharla Jane Pasia</h1>
+        <h2 class="name2">BSCpE || 20150100666 || UE Manila</h2>
+        <p class="me1">Kharla Jane is a student in UE Manila taking the degree of Engineering Major in Computerand studied for both software and hardware 
+            with a such experience throughout hands-on in all levels of testing,including performance, functional, 
+            integration, system and user acceptance testing. A fast learner with strong time management and 
+            multi-tasking skills. Strong work ethic in team or individual settings to drive product success and 
+            process efficiency.
+        <br><br> She still fights on what she's taking now. For her, all things have a great meaning why they come to us. 
+        The best thing to do is to fulfill the opportunities we have. Never stop on what just you can.
+         Instead, dream big and aim high, accept the risk and someday you'll find the answer. 
+         Just trust and have faith in our God.
+        </p>
+        <p class="me2">God is my Strength</p>
+       
+    </div>
+
+</body>
+</html>

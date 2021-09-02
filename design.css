@@ -1,0 +1,86 @@
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content{
+    background: wheat;
+    width: 65%;
+    padding: 40px;
+    margin: 100px auto;
+}
+.profile{
+    border-radius: 50%;
+    width: 45%;
+    height: 45%;
+    align-self: center;
+}
+.name{
+    margin-left: 8%;
+    font-family: constantia;
+}
+.name2{
+    margin-left: 4%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.me{
+    margin-right: 15%;
+    float: right;
+    font-size: 30px;
+    font-family: Broadway;
+}
+.me1{
+    position: absolute;
+    top:30%;
+    margin-left: 32%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: bookman old style;
+}
+.me2{
+    position: absolute;
+    top:75%;
+    margin-left: 43%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: bookman old style;
+    font-style: italic;
+    font-weight: bold;
+}
+.fb{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    top:105%;
+    float:right;
+    position: relative;
+    left: 0%;
+
+}
+.twi{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: .10%;
+}
+.tik{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: 35%;
+}
+.insta{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: 45%;
+}

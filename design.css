@@ -19,9 +19,25 @@ body{
 .name{
     margin-left: 8%;
     font-family: constantia;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to right, #e8198b, #070707);
+    -webkit-text-fill-color: transparent;
+    color: #464646;
 }
 .name2{
     margin-left: 4%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.name3{
+    margin-left: 6%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.name4{
+    margin-left: 13%;
     font-size: 20px;
     font-family: bookman old style;
     font-weight: lighter;
@@ -31,6 +47,11 @@ body{
     float: right;
     font-size: 30px;
     font-family: Broadway;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to right, #e8198b, #070707);
+    -webkit-text-fill-color: transparent;
+    color: #464646;
+    
 }
 .me1{
     position: absolute;
@@ -42,7 +63,7 @@ body{
 }
 .me2{
     position: absolute;
-    top:75%;
+    top:90%;
     margin-left: 43%;
     margin-right: 20%;
     text-align: justify;
